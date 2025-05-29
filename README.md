@@ -2,6 +2,9 @@
 
 A modern, responsive weather application built using **React.js** and a public **Weather API**. This app allows users to search for cities and view real-time weather information including temperature, condition, and location data.
 
+## 🚀 live Link - 
+https://weather-app-react-l7zx.vercel.app/
+
 ## 🚀 Features
 
 - Real-time weather data
